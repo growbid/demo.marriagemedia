@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.banner{
+	background: url(../img/section-1.jpg);
+	height: 124vh;
+	background-size:cover;
+	background-position: center;
+	overflow: hidden;
+}
+
+.btn-custom{
+	font-size: 15px;
+}
+
+.btn-grp{
+	width: auto; 
+	margin-top: 530px;
+	margin-left: 70px;
+}
